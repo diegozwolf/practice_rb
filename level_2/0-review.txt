@@ -1,0 +1,43 @@
+1) Create a variable
+2) Create a string
+3) Create an integer
+4) create a float
+5) create a boolean
+6) use a bang to reverse a boolean
+7) create an empty array
+8) create an empty hash
+9) create a function
+10) create a class
+11) put a method in your class
+12) create a function that take two numbers and returns which one is bigger
+13) show an example of interpolation
+14) show an example of concatenation
+15) add an element to an array
+16) add an element to a hash
+17) get an element from this array
+  arr = [5,5]
+18) get a value from this hash
+  hsh = {g: 'cool', nico: 'pretty cool too'}
+19) create an array of hashes
+20) create a hash where strings are keys and the values are empty arrays
+21) make two classes. make one inherit from the other
+22) make a class that has an instance variable set with the initialize method without taking any params
+23) same as 22 but make it so that the value of the param is passed in
+24) print out a message
+25) use .times
+26) use .each
+27) why does [2].map{|n| 3} return [3] while [2].each{|n| 3} returns [2]
+28) what class is .chomp method for
+29) what does += do
+30) what does << do on arrays? strings?
+31) write a while loop
+32) why does !!7 return true and !!nil return false
+33) what is a method that changes the original value called *hint !
+34) make an array of arrays of empty hashes
+35) write a hash with a symbol for one key and a string for another
+36) write a function with an optional argument
+37) what will this return [9,3,4][0], this [9,3,4][-1] 
+38) write a class with a class method using the class name
+39) write a class with a class method using self
+40) write a loop that uses break
+
